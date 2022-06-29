@@ -1,0 +1,10 @@
+Implemente un algoritmo recursivo para buscar un elemento en una lista simple.
+Implemente, además, un algoritmo recursivo para buscar un elemento en un arreglo ordenado
+ascendentemente [1 2 3 …].
+1. ¿Qué complejidad O tienen estos algoritmos?
+2. ¿En qué afecta la estructura a estos algoritmos?
+3. ¿Cambia algo que la estructura esté ordenada?
+
+1- O(log n) para una lista no ordenada y O(n) para un arreglo ordenado
+2-	Afecta que si esta ordenado podes acceder al elemento a buscar directamente
+3- Si

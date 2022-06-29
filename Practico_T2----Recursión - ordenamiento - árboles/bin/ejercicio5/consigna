@@ -1,0 +1,12 @@
+Ejercicio 5.
+
+Implemente un algoritmo de ordenamiento mergesort para un arreglo de tamaño N.
+Implemente un algoritmo de ordenamiento quicksort para un arreglo de tamaño N.
+
+Mergesort:
+1. ¿Cuál es su complejidad en el peor caso? log2 n 
+2. ¿Cuál es su complejidad promedio? O(n log n).
+
+QuickSort
+1. ¿Cuál es su complejidad en el peor caso? O(n2)
+2. ¿Cuál es su complejidad promedio? O(n log n)

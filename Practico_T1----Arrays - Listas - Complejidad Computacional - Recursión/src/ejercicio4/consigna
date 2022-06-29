@@ -1,0 +1,4 @@
+Ejercicio 4.
+A la implementación de la clase Lista realizada en el ejercicio 1, agregue un método
+indexOf, que reciba un elemento y retorne el índice donde está almacenado ese elemento, o
+-1 si el elemento no existe en la lista.

@@ -1,0 +1,11 @@
+Ejercicio 1.
+Implemente un algoritmo recursivo que determine si un arreglo de tamaño N está ordenado.
+1. ¿Qué complejidad O tiene? (La complejidad en el peor caso)
+2. ¿Trae algún problema hacerlo recursivo? ¿Cuál?
+3. ¿Qué cambiaría si la estructura fuera una lista en lugar de un arreglo?
+
+
+
+1. O(log(n))
+2. Que es mas dificil encontrar la forma de hacerlo.
+3. El get de los valores, y si es una lista iterable mantendria el for
